@@ -1,0 +1,24 @@
+{
+  "name": "yash",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "homepage": "https://github.com/YashrajKamble/Node-JS-Basics#readme",
+  "bugs": {
+    "url": "https://github.com/YashrajKamble/Node-JS-Basics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashrajKamble/Node-JS-Basics.git"
+  },
+  "license": "ISC",
+  "author": "yash",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t\t\t"
+  },
+  "dependencies": {
+    "@angular/cli": "^21.1.3",
+    "express": "^5.2.1"
+  }
+}
